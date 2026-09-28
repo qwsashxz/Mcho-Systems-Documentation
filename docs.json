@@ -8,8 +8,8 @@
     "dark": "#15803D"
   },
   "favicon": {
-    "light": "/images/Mcho_iconlogo_B.png",
-    "dark": "/images/Mcho_iconlogo_w.png"
+    "light": "/images/Mcho_iconlogo_w.png",
+    "dark": "/images/Mcho_iconlogo_B.png"
   },
   "navigation": {
     "pages": [
@@ -72,5 +72,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "fonts": {
+    "family": "Sora"
   }
 }
