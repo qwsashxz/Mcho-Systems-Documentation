@@ -1,15 +1,15 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "Mcho Systems Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#6D2AAB",
+    "light": "#C07BFF",
+    "dark": "#4D1B7C"
   },
   "favicon": {
-    "light": "/images/Mcho_iconlogo_w.png",
-    "dark": "/images/Mcho_iconlogo_B.png"
+    "light": "/images/Mcho_iconlogo_B.png",
+    "dark": "/images/Mcho_iconlogo_w.png"
   },
   "navigation": {
     "pages": [
@@ -45,13 +45,12 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@mintlify.com"
+        "href": "mailto:support@mcho.app"
       }
     ],
     "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "type": "discord",
+      "href": "https://links.mcho.app/discord"
     }
   },
   "contextual": {
@@ -68,9 +67,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/mchoapp",
+      "github": "https://github.com/Mcho-Systems-Ltd",
+      "discord": "https://links.mcho.app/discord",
+      "website": "https://mcho.app"
     }
   },
   "fonts": {
